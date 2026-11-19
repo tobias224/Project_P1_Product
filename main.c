@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> //the normal library
+#include <strings.h> //for strings
 
 
-//Dette er en test
+//We want to make a program to log files 
+
